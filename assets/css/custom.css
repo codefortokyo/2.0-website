@@ -1,0 +1,26 @@
+body {
+  font-family: Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+
+
+h1, .h1 {
+  color: #AC7E4E;
+  font-size: 6rem !important;
+  font-weight: 800 !important;
+}
+
+p {
+  color: #666;
+}
+
+
+h4, .h4 {
+  color: #AC7E4E;
+}
+
+
+.swiper-container .container > .row {
+  height: 100%;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+}
